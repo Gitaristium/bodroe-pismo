@@ -1,5 +1,9 @@
 # bodroe-pismo
 
+<a href="https://clck.ru/32ZzSQ" target="_blank">view mail #1</a><br>
+<a href="https://clck.ru/32ZzXG" target="_blank">view mail #2</a><br>
+<a href="https://clck.ru/32ZzXc" target="_blank">view mail #3</a>
+
 #en
 <p>The primary task for me was: to make the most versatile template on the code that will display correctly on the maximum number of mail services and mail clients. Who already dealt with the development of templates for letters knows that even these days - for letters all is written using tables. But there are a lot of technical problems with displaying of "new" properties in old clients (for example not all email clients understand background ccs-property - it is necessary to write mso-valid code separately)</p>
 <p>I think this task was accomplished quite well. The result was tested on a dozen of different live clients, as well as using the virtual testing service on different clients.</p><br>
